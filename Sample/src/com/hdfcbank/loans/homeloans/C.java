@@ -7,6 +7,7 @@ public class C extends A
    void m3()
    {
 	   System.out.println("iam m3 in class C");
+	   System.out.println("HI");
    }
    
 	public static void main(String[] args) {
